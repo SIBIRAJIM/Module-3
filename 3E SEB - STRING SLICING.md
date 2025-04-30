@@ -9,11 +9,11 @@ To write a Python function  to find sequences of Lower case letters joined with 
 1. Start
 2. Input a string and store it in variable a
 3. Use a regular expression pattern "[a-z]+@" to search within a:
-  - The pattern matches one or more lowercase letters followed by @
+    - The pattern matches one or more lowercase letters followed by @
 4. If a match is found:
-  - Print "Found a match!"
+    - Print "Found a match!"
 5. Else:
-  - Print "Not matched!"
+    - Print "Not matched!"
 6. End
 
 ### PROGRAM
