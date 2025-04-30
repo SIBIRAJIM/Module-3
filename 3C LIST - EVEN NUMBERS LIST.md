@@ -1,5 +1,5 @@
 # Exp.No:3c
-## LIST - LIST
+## LIST - NUMBERS ENDING WITH 3 FROM A LIST
 
 ### AIM  
 To write a Python Program to display the product of all the values which are ending with 3 from a list.
